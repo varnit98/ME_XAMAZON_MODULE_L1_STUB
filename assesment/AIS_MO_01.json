@@ -62,11 +62,11 @@
       {
         "object_notation": "RESPONSE",
         "operator": "contains",
-        "expected_value": "laptop"
+        "expected_value": "Laptop"
       }
     ],
     "error_out": "Assert that the resulting page contains the search term",
-    "hint": "Ensure you are checking if \"laptop\" is in the search result titles or descriptions"
+    "hint": "Ensure you are checking if \"Laptop\" is in the search result titles or descriptions"
   },
   {
     "description": "TestCase03: Verify the navigation menu",
